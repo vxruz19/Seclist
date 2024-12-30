@@ -1884,7 +1884,9 @@ cla.md
 code_of_conduct.md
 ecosystem.config.cjs
 Dockerfile
+.changeset/funny-coins-sort.md
 .changeset/config.json
+.changeset/selfish-dingos-judge.md
 pnpm-workspace.yaml
 sdk/readme.md
 sdk/tsconfig.json
@@ -2280,6 +2282,7 @@ app/src/composables/use-folders.test.ts
 app/src/composables/use-item.ts
 app/src/composables/use-navigation-guard.ts
 app/src/composables/use-clipboard.ts
+app/src/composables/use-nested-validation.ts
 app/src/composables/use-relation-single.ts
 app/src/composables/use-shortcut.test.ts
 app/src/composables/use-window-size.ts
@@ -3177,7 +3180,6 @@ app/src/interfaces/_system/system-language/system-language.vue
 app/src/interfaces/_system/system-permissions/permissions-header.vue
 app/src/interfaces/_system/system-permissions/system-permissions.vue
 app/src/interfaces/_system/system-permissions/index.ts
-app/src/interfaces/_system/system-permissions/add-collection-row.vue
 app/src/interfaces/_system/system-permissions/permissions-row.vue
 app/src/interfaces/_system/system-permissions/detail/permissions-detail.vue
 app/src/interfaces/_system/system-permissions/detail/components/permissions.vue
@@ -3187,6 +3189,7 @@ app/src/interfaces/_system/system-permissions/detail/components/actions.vue
 app/src/interfaces/_system/system-permissions/detail/components/tabs.vue
 app/src/interfaces/_system/system-permissions/detail/components/fields.vue
 app/src/interfaces/_system/system-permissions/detail/components/app-minimal.vue
+app/src/interfaces/_system/system-permissions/add-collection.vue
 app/src/interfaces/_system/system-permissions/permissions-toggle.vue
 app/src/interfaces/_system/system-interface/index.ts
 app/src/interfaces/_system/system-interface/system-interface.vue
