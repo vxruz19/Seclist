@@ -3372,6 +3372,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /products
 /products
 /products/*?*filter=
+/products/erp/s4hana-private-edition/trial.html
 /professionals/*/*project-type-*-probr1-
 /professionals/*/*style-modern-probr1-
 /profile
@@ -4095,6 +4096,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?chapter_analytics_code=
 ?checkoutError=deal_unavailable
 ?cid
+?cis=
 ?city=
 ?clipid=
 ?cmd*
@@ -6025,6 +6027,7 @@ _rv/gtm
 _rv/jwt
 _rv/title
 _rv/viewer
+_sa_track
 _search.html
 _seo.html
 _singlePage.html
@@ -7363,6 +7366,7 @@ b?*node=7454927011
 b?*node=7454939011
 b?*node=9052533011
 ba
+backend
 backend-anon
 backend-anon/conversation$
 backend-anon/sentinel
@@ -10267,6 +10271,7 @@ disneyid
 disneyiframe/
 dispatch/us/search
 display-video-360
+distributions
 distropic
 distrovid/myvideos
 dk
@@ -12921,7 +12926,7 @@ http://bbcsfx.acropolis.org.uk/robots.txt
 http://creativecommons.org/robots.txt
 http://economist.com/robots.txt
 http://europa.eu/robots.txt
-http://expedia.com/robots.txt
+http://explore.org/robots.txt
 http://gist.github.com/robots.txt
 http://govostis.gr/robots.txt
 http://healthline.com/robots.txt
@@ -14060,8 +14065,6 @@ journal/biosphere
 journal/biosphere$
 journal/books
 journal/books$
-journal/cmtr
-journal/cmtr$
 journal/complexities
 journal/complexities$
 journal/devices
@@ -14074,8 +14077,6 @@ journal/famsci
 journal/famsci$
 journal/fis
 journal/fis$
-journal/greenhealth
-journal/greenhealth$
 journal/hazardous_matters
 journal/hazardous_matters$
 journal/ijip
@@ -14890,6 +14891,8 @@ manifest.webmanifest
 manifests
 manotest/
 mantis
+manual/add-note.php
+manual/vote-note.php
 map
 map-constructor/loader
 map-regular.xml
@@ -15234,6 +15237,7 @@ mobilenextapi/v2/logs
 mobilepagenotfounderror.aspx
 mobileservererror.aspx
 mod
+mod.php
 mod=
 mod?
 modal-message
@@ -15268,6 +15272,7 @@ modules=SEARCH_REFINEMENTS_MODEL_V2
 moments_app
 mone$
 mone_event$
+mone_v2$
 money/stockChart.jsp
 money/stockQuote.jsp
 money/stockQuoteChart.jsp
@@ -16790,14 +16795,12 @@ parental-passcode
 parenting/cpp-21/what-is-cpp
 parents/activity-finder
 parents/search
-parking.php4
 parliament/public/traineeship/secured/
 parliament/public/transltraineeship/secured
 partNumber=
 partial
 participate/conferences.xml
 partner
-partner-articles
 partner/*?
 partnerfeeds
 partners
@@ -17541,6 +17544,7 @@ products/content
 products/decorative-pillows/*--*--*--
 products/decorative-pillows/*--*--*--*--
 products/einstein/ai-research.
+products/erp/s4hana-private-edition/trial.html
 products/filing-cabinets/*--*--*--
 products/filing-cabinets/*--*--*--*--
 products/finder
@@ -19259,6 +19263,7 @@ series/
 serv/
 server
 server-configurator
+server-status
 server.php
 server/banners
 server/body-include
@@ -23373,7 +23378,6 @@ wp-content/themes/wired/assets/images/subscribe_290x110.gif
 wp-content/themes/wired/assets/images/subscribe_310x80.gif
 wp-content/themes/wired/assets/images/wired_insider_1118_1000x190.jpg
 wp-content/themes/wired/assets/images/wired_video_1000x190.jpg
-wp-content/uploads
 wp-content/uploads/sites/4/wpforms
 wp-content/uploads/sites/6/wpforms
 wp-content/uploads/wc-logs
@@ -23442,6 +23446,7 @@ xcs0MhRsfxHG.js
 xd/en/
 xdoor
 xfx7
+xgCxM9By/init.js
 xh/forums
 xh/kb/*/discuss
 xh/search
